@@ -1,0 +1,2 @@
+# Localized Strings Editor
+
